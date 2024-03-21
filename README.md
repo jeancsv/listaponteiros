@@ -1,3 +1,3 @@
 # listaponteiros
-Lista de ponteiros
+Lista de ponteiros\n
 Componente: Jean Carlos da Silva Varela. 
